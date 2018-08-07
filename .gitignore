@@ -6,7 +6,6 @@
 # Packages
 *.egg
 *.egg-info
-dist
 build
 eggs
 parts
@@ -31,3 +30,4 @@ nosetests.xml
 *.mo
 
 venv
+node_modules
